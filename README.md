@@ -70,7 +70,7 @@ Assembled an interactive dashboard with slicers for filtering the charts dynamic
 
 ##  Dashboard Preview
 
-> `![Dashboard](dashboard_screenshot.png)`
+> ![Dashboard](dashboard_screenshot.png)
 
 ---
 
